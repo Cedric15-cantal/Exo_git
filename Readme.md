@@ -1,3 +1,5 @@
+[lien GitHub du repo de cette page](https://github.com/Cedric15-cantal/Exo_git.git)
+
 # Exercices test
 
 **Connaissace des outils Git et de la consultation web via GitHub**
