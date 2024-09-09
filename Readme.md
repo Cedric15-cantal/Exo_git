@@ -34,6 +34,6 @@ ___
 
 ## Pour une pause bien méritée savourez un morceau de tomme de Salers, authentique et persillée...
 
-![Tomme de Salers](.\170-Capture-salers.jpg)
+![Tomme de Salers](170-Capture-salers.jpg)
 
 [Pour en savoir plus](https://www.aop-salers.com/)
