@@ -18,7 +18,20 @@ Exemple de liste :
 * GitHub
 * Gitlab
 
+Exemple de tableau :
+| Commune | Insee_com | Nombre habitants |
+| :--------------- |:---------------:| -----:|
+| Saignes  | 15132 |  1032 |
+| Mauriac  | 15028 |  1156 |
+| Rilhac-Xaintrie  | 19158 | 553 |
+
+Exemple de mise en coucleur de texte via HTML :
+
+<span style="color: #26B260">"Bonjour, ça va ?"</span>
+
 ___
+## J'ai tellement besoin d'amour !!! - *Vas-y chantes*
+
 ## Pour une pause bien méritée savourez un morceau de tomme de Salers, authentique et persillée...
 
 ![Tomme de Salers](.\170-Capture-salers.jpg)
